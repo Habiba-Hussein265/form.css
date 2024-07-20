@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+    background-color: chocolate;
+    font-style: italic;
+    font-size: 32px;
+
+}
+
+form{
+    border: 4px black solid;
+    padding: 5px;
+    background-color: color-mix(in srgb, lemonchiffon 80%, grey 20%);
+    font-size: 22px;
+    margin: 8px;
+}
